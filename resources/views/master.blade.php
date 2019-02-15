@@ -21,7 +21,6 @@
 @include('header')
 <div class="rev-slider">
 @yield('conten')
-
 @include('footer')
 
 
